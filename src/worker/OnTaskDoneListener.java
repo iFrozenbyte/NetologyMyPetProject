@@ -2,5 +2,5 @@ package worker;
 
 @FunctionalInterface
 public interface OnTaskDoneListener {
-    void onDone(String result);// test
+    void onDone(String result);//
 }
