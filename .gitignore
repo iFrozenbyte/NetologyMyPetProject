@@ -1,0 +1,5 @@
+*.xlsx
+*.pdf
+Git.iml
+out/
+.idea/
